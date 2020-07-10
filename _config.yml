@@ -3,7 +3,6 @@ url: "https://shenyigang.github.io"
 baseurl: "/shenyigang.github.io"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
