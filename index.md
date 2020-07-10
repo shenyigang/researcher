@@ -22,7 +22,7 @@ MEMS, microfluidics, cell sorting, single cell analyzes, droplet control, partic
 
 ## Publications
 
-1. **Y. Shen**, N. Tanaka, H. Yamazoe, S. Furutani, H. Nagai, T. Kawai, Y. Tanaka, Flow analysis on microcasting with degassed polydimethylsiloxane micro-channels for cell patterning with cross-linked albumin, PLoS One. 15 (2020) e0232518. doi:10.1371/journal.pone.0232518.
+1. **Y. Shen**, N. Tanaka, H. Yamazoe, S. Furutani, H. Nagai, T. Kawai, Y. Tanaka, Flow analysis on microcasting with degassed polydimethylsiloxane micro-channels for cell patterning with cross-linked albumin, PLoS One. 15 (2020) e0232518.
 2. Aishan Y, Yalikun Y, Funano SI, **Shen Y**, Tanaka Y. Accurate rotation of ultra-Thin glass chamber for single-cell multidirectional observation. Appl Phys Express.13: 26502 2020.
 3. Aishan Y, Yalikun Y, Amaya S, **Shen Y**, Tanaka Y. Thin glass micro-dome structure based microlens fabricated by accurate thermal expansion of microcavities. Appl Phys Lett. 115 2020.
 4. N. Ota, G. Kanda, H. Moriguchi, Y. Aishan, **Y. Shen**, R. Yamada, H. ueda, Y. Tanaka "A Microfluidic Platform Based on Robust Gas and Liquid Exchange for Long-term Culturing of Explanted Tissues." Analytical Sciences 35.10, 1141-1147 2019.
@@ -50,7 +50,7 @@ Design the structure of the chip and master the COMSOL simulation software.
 2014-2017	Project: Research on Key Issues of the Marine Power Plant Oil Detecting on a Microfluidic Lab-on-Chip Device (National Science Foundation of China)	
 Study on the separation and counting of microfluidic abrasive grains with multi-physics coupling.
 
-## Conference presentaion
+## Conference Presentaion
 
 1.	**Y. Shen**, Y. Yalikun, Y. Tanaka, “A portable droplet sorting platform with integrated thermocapillary sorting and capacitance detecting”, International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2019), W118.d, Basel, Switzerland, October 2019.
 2.	Y. Tanaka, S. Amaya, D. Ma, **Y. Shen**, O. Gusev “Biosensing and power generation robots using anhydrobiosis of chironomid for space exploring”, International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2019), T001.a, Basel, Switzerland, October 2019.
@@ -59,7 +59,7 @@ Study on the separation and counting of microfluidic abrasive grains with multi-
 
 
 
-## Honour and awards
+## Honour and Awards
 
 Year | Award                                                                                       |
 -----|---------------------------------------------------------------------------------------------|
