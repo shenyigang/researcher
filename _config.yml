@@ -1,4 +1,4 @@
-title: Researcher
+title: Yigang Shen
 url: "https://shenyigang.github.io"
 baseurl: "/shenyigang.github.io"
 
@@ -16,7 +16,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/shenyigang.github.io"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
