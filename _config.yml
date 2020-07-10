@@ -1,6 +1,6 @@
 title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://shenyigang.github.io"
+baseurl: "/shenyigang.github.io"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/shenyigang"
+footer_text: "Page design by yigang Shen"
 
 sass:
     style: compressed
@@ -23,4 +23,3 @@ nav:
  - name: "Contact"
    link: "contact"
 
-theme: jekyll-theme-minimal
