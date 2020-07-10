@@ -9,7 +9,10 @@ is_contact: true
 
 ## Mailing Address
 
-> 1-3 Yamadaoka, 565-0871, Suita
+
+> Graduate School of Frontier Biosciences, Osaka University 
+>
+>1-3 Yamadaoka, 565-0871, Suita
 >
 > Osaka
 >
@@ -17,5 +20,4 @@ is_contact: true
 
 ---
 
-## Social
 
