@@ -4,8 +4,6 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
-
 Hi! I am a PhD candidate at graduate school of frontier biosciences, Osaka University .
 
 ## Education Background
@@ -24,14 +22,14 @@ MEMS, microfluidics, cell sorting, single cell analyzes, droplet control, partic
 
 ## Publications
 
-1. Shen Y, Tanaka N, Yamazoe H, Furutani S, Nagai H, Kawai T, et al. Flow analysis on microcasting with degassed polydimethylsiloxane micro-channels for cell patterning with cross-linked albumin. PLoS One.15: e0232518 2020.
-2. Aishan Y, Yalikun Y, Funano SI, Shen Y, Tanaka Y. Accurate rotation of ultra-Thin glass chamber for single-cell multidirectional observation. Appl Phys Express.13: 26502 2020.
-3. Aishan Y, Yalikun Y, Amaya S, Shen Y, Tanaka Y. Thin glass micro-dome structure based microlens fabricated by accurate thermal expansion of microcavities. Appl Phys Lett. 115 2020.
-4. N. Ota, G. Kanda, H. Moriguchi, Y. Aishan, Y. Shen, R. Yamada, H. ueda, Y. Tanaka "A Microfluidic Platform Based on Robust Gas and Liquid Exchange for Long-term Culturing of Explanted Tissues." Analytical Sciences 35.10, 1141-1147 2019.
-5. N. Ota, Y. Yalikun, N. Tanaka, Y. Shen, Y. Aishan, Y. Nagahama, M. Oikawa, Y. Tanaka. “Simple Isolation of Single Cell: Thin Glass Microfluidic Device for Observation of Isolated Single Euglena gracilis Cells”. Anal. Sci., 18, 568-590 2019. 
-6. Y. Yalikun, K.Uesugi, M. Hiroki, Y. Shen, Y. Tanaka, Y. Akiyama, K. Morishima. “Insect Muscular Tissue-Powered Swimming Robot”. Actuators, 8, 30-44 2019. 
-7. Y. Shen, Y. Yalikun, Y. Tanaka, “Recent advances in microfluidic cell sorting systems”. Sensors Actuators B Chem. 282, 268–281 2018. 
-8. Y. Shen, Z Song, Y. Yan, Y. Song. Automatic and selective single cell manipulation in a pressure-driven microfluidic lab-on-chip device. Micromachines, 8,6, 172 2017.
+1. **Y. Shen**, N. Tanaka, H. Yamazoe, S. Furutani, H. Nagai, T. Kawai, Y. Tanaka, Flow analysis on microcasting with degassed polydimethylsiloxane micro-channels for cell patterning with cross-linked albumin, PLoS One. 15 (2020) e0232518. doi:10.1371/journal.pone.0232518.
+2. Aishan Y, Yalikun Y, Funano SI, **Shen Y**, Tanaka Y. Accurate rotation of ultra-Thin glass chamber for single-cell multidirectional observation. Appl Phys Express.13: 26502 2020.
+3. Aishan Y, Yalikun Y, Amaya S, **Shen Y**, Tanaka Y. Thin glass micro-dome structure based microlens fabricated by accurate thermal expansion of microcavities. Appl Phys Lett. 115 2020.
+4. N. Ota, G. Kanda, H. Moriguchi, Y. Aishan, **Y. Shen**, R. Yamada, H. ueda, Y. Tanaka "A Microfluidic Platform Based on Robust Gas and Liquid Exchange for Long-term Culturing of Explanted Tissues." Analytical Sciences 35.10, 1141-1147 2019.
+5. N. Ota, Y. Yalikun, N. Tanaka, **Y. Shen**, Y. Aishan, Y. Nagahama, M. Oikawa, Y. Tanaka. “Simple Isolation of Single Cell: Thin Glass Microfluidic Device for Observation of Isolated Single Euglena gracilis Cells”. Anal. Sci., 18, 568-590 2019. 
+6. Y. Yalikun, K.Uesugi, M. Hiroki, **Y. Shen**, Y. Tanaka, Y. Akiyama, K. Morishima. “Insect Muscular Tissue-Powered Swimming Robot”. Actuators, 8, 30-44 2019. 
+7. **Y. Shen**, Y. Yalikun, Y. Tanaka, “Recent advances in microfluidic cell sorting systems”. Sensors Actuators B Chem. 282, 268–281 2018. 
+8. **Y. Shen**, Z Song, Y. Yan, Y. Song. Automatic and selective single cell manipulation in a pressure-driven microfluidic lab-on-chip device. Micromachines, 8,6, 172 2017.
 
 ## Research Experience
 2019-2020	Project: Development of real-time detection and analysis system for metal particles in lubricating oil using glass microfluidic devices 
@@ -53,10 +51,11 @@ Design the structure of the chip and master the COMSOL simulation software.
 Study on the separation and counting of microfluidic abrasive grains with multi-physics coupling.
 
 ## Conference presentaion
-1.	Y. Shen, Y. Yalikun, Y. Tanaka, “A portable droplet sorting platform with integrated thermocapillary sorting and capacitance detecting”, International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2019), W118.d, Basel, Switzerland, October 2019.
-2.	Y. Tanaka, S. Amaya, D. Ma, Y. Shen, O. Gusev “Biosensing and power generation robots using anhydrobiosis of chironomid for space exploring”, International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2019), T001.a, Basel, Switzerland, October 2019.
-3.	Y. Aishan, Y. Yaxiaer, S. Amaya, Y. Shen, Y. Tanaka “Ultra-thin glass micro dome structure (GMDS) for multidirectional cell observation”, International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2019), W145.e, Basel, Switzerland, October 2019.
-4.	Y. Shen, Q. Ji, X. Pan . On-line wear debris detection in lubricating oil with counting and separation technologies ICMFLOC Dalian, China, July 2016.
+
+1.	**Y. Shen**, Y. Yalikun, Y. Tanaka, “A portable droplet sorting platform with integrated thermocapillary sorting and capacitance detecting”, International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2019), W118.d, Basel, Switzerland, October 2019.
+2.	Y. Tanaka, S. Amaya, D. Ma, **Y. Shen**, O. Gusev “Biosensing and power generation robots using anhydrobiosis of chironomid for space exploring”, International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2019), T001.a, Basel, Switzerland, October 2019.
+3.	Y. Aishan, Y. Yaxiaer, S. Amaya, **Y. Shen**, Y. Tanaka “Ultra-thin glass micro dome structure (GMDS) for multidirectional cell observation”, International Conference on Miniaturized Systems for Chemistry and Life Sciences (µTAS 2019), W145.e, Basel, Switzerland, October 2019.
+4.	**Y. Shen**, Q. Ji, X. Pan . On-line wear debris detection in lubricating oil with counting and separation technologies ICMFLOC Dalian, China, July 2016.
 
 
 
