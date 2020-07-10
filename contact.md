@@ -3,24 +3,19 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
-
-* Phone: [+91-123123](tel:+91-123123)
+* Email: [yigang.shen@riken.com](mailto:yigang.shen@riken.com)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 1-3 Yamadaoka, 565-0871, Suita
 >
-> London
+> Osaka
 >
-> United Kingdom
+> Janpan
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
