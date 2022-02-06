@@ -4,21 +4,24 @@ layout: default
 
 ## About Me <div itemscope itemtype="https://schema.org/Person"><a itemprop="sameAs" content="https://orcid.org/0000-0002-9665-0264" href="https://orcid.org/0000-0002-9665-0264" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon"></a></div>
 
-Hi! I am a PhD candidate at graduate school of frontier biosciences, Osaka University .
+Hi! I am a Posdoc at College of Chemistry and Chemical Engineering, Xiamen University.
 
 ## Education Background
 
-12/2018-- In progress  PhD Graduate School of Frontier Biosciences, Osaka University; Student trainee, RIKEN          
-Research field: MEMS, microfluidics, cell sorting, single cell analyzes, droplet control, particle manipulation
+01/2022--In present Posdoc College of Chemistry and Chemical Engineering, Xiamen University
+Research field: liquid-liquid surface, Microfluidics, Particle manipulation, Liquid-based gating, Porous membranebionics, Bionics
+
+12/2018-- 09/2021  PhD Graduate School of Frontier Biosciences, Osaka University; Student trainee, RIKEN          
+Research field: MEMS, Microfluidics, Cell sorting, Droplet control, Particle manipulation
 
 09/2014--03/2017 MSc Marine Engineering, Dalian Maritime University, China                                    
-Research field: Oil analyses, metal particles detecting, microfluidics
+Research field: Oil analyses, Metal particles detecting, Microfluidics
 
 09/2010--07/2014   BSc Marine Engineering, Dalian Maritime University, China 
 
 ## Research Interest
 
-MEMS, microfluidics, cell sorting, single cell analyzes, droplet control, particle manipulation
+liquid-liquid surface, Microfluidics, Particle manipulation, Liquid-based gating, Porous membranebionics, Bionics
 
 ## Publications
 
